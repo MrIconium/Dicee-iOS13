@@ -1,3 +1,5 @@
+I forked this project to study forking and pull requests
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
